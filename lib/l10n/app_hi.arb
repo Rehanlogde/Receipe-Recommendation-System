@@ -1,0 +1,186 @@
+{
+  "@@locale": "hi",
+  "appTitle": "रेसिपी गाइड",
+  "login": "लॉग इन",
+  "signup": "साइन अप",
+  "forgotPassword": "पासवर्ड भूल गए?",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "confirmPassword": "पासवर्ड दोबारा लिखें",
+  "name": "नाम",
+  "loginButton": "लॉग इन करें",
+  "signupButton": "खाता बनाएँ",
+  "sendResetLink": "रीसेट लिंक भेजें",
+  "continueWithGoogle": "Google से जारी रखें",
+  "orContinueWith": "या इससे जारी रखें",
+  "noAccount": "नए हैं? साइन अप करें",
+  "haveAccount": "खाता है? लॉग इन करें",
+  "backToLogin": "लॉग इन पर वापस जाएँ",
+  "home": "होम",
+  "favorites": "पसंदीदा",
+  "profile": "प्रोफ़ाइल",
+  "welcomeUser": "नमस्ते, {name}",
+  "@welcomeUser": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "homeSubtitle": "घर में मौजूद सामग्री से स्वादिष्ट खाना बनाएँ।",
+  "findRecipes": "रेसिपी खोजें",
+  "selectIngredients": "सामग्री चुनें",
+  "selectIngredientsHint": "रसोई में जो चीज़ें हैं, उन पर टैप करें। फिर हम रेसिपी सुझाएँगे।",
+  "searchIngredients": "सामग्री खोजें",
+  "getRecommendations": "रेसिपी दिखाएँ",
+  "selectedCount": "{count} चुनी गई",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "recommendedRecipes": "सुझाई गई रेसिपी",
+  "recipeDetails": "रेसिपी",
+  "ingredients": "सामग्री",
+  "steps": "चरण",
+  "video": "पकाने का वीडियो",
+  "watchVideo": "वीडियो देखें",
+  "videoUnavailable": "इस रेसिपी का वीडियो अभी नहीं है।",
+  "cookTime": "{minutes} मिनट",
+  "@cookTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "servingsLabel": "{count} सर्विंग",
+  "@servingsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "difficulty": "स्तर",
+  "addToFavorites": "सेव करें",
+  "removeFromFavorites": "सेव हो गया",
+  "logout": "लॉग आउट",
+  "language": "भाषा",
+  "english": "अंग्रेज़ी",
+  "hindi": "हिन्दी",
+  "marathi": "मराठी",
+  "noRecipes": "कोई रेसिपी नहीं मिली",
+  "noRecipesHint": "रसोई से और सामग्री चुनकर देखें।",
+  "noFavorites": "अभी कोई सेव की गई रेसिपी नहीं है",
+  "noFavoritesHint": "रेसिपी खोलें और सेव पर टैप करें।",
+  "noIngredients": "इस खोज से कोई सामग्री नहीं मिली।",
+  "loading": "कृपया प्रतीक्षा करें…",
+  "errorTitle": "कुछ गड़बड़ हो गई",
+  "tryAgain": "फिर कोशिश करें",
+  "resetPasswordHint": "अपना ईमेल लिखें। हम रीसेट लिंक भेजेंगे।",
+  "resetEmailSent": "अगर यह ईमेल पंजीकृत है, तो रीसेट लिंक भेज दिया गया है।",
+  "invalidEmail": "सही ईमेल पता लिखें।",
+  "passwordTooShort": "पासवर्ड कम से कम 6 अक्षर का होना चाहिए।",
+  "passwordsDoNotMatch": "पासवर्ड मेल नहीं खाते।",
+  "nameRequired": "कृपया अपना नाम लिखें।",
+  "emailRequired": "कृपया अपना ईमेल लिखें।",
+  "passwordRequired": "कृपया पासवर्ड लिखें।",
+  "selectAtLeastOne": "कृपया कम से कम एक सामग्री चुनें।",
+  "demoHint": "डेमो मोड: कोई भी सही ईमेल और पासवर्ड चल जाएगा।",
+  "popularRecipes": "लोकप्रिय रेसिपी",
+  "stepLabel": "चरण {number}",
+  "@stepLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "googleSignInSoon": "Google साइन-इन बाद में जोड़ा जाएगा।",
+  "account": "खाता",
+  "signedInAs": "इस नाम से लॉग इन हैं",
+  "appInfo": "यह छात्र फ्रंटएंड है। यहाँ दिखाई गई रेसिपी नमूना डेटा हैं।",
+  "clearAll": "सभी हटाएं",
+  "addCustomIngredient": "अलग सामग्री जोड़ें",
+  "enterIngredientName": "सामग्री का नाम दर्ज करें",
+  "add": "जोड़ें",
+  "selectedIngredientsTitle": "चुनी गई सामग्री ({count})",
+  "@selectedIngredientsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "inKitchen": "रसोई में {matched}/{total}",
+  "@inKitchen": {
+    "placeholders": {
+      "matched": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "missingCount": "{count} सामग्री बाकी",
+  "@missingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "filterAll": "सभी",
+  "filterByCategory": "श्रेणियाँ",
+  "customCategory": "कस्टम",
+  "kitchenShortcut": "आपकी रसोई में क्या है?",
+  "searchHintHome": "सामग्री या रेसिपी खोजें...",
+  "viewAll": "सभी देखें",
+  "allRecipesTitle": "सभी रेसिपी",
+  "startCooking": "पकाना शुरू करें",
+  "cookingMode": "कुकिंग मोड",
+  "stepOf": "चरण {current} / {total}",
+  "@stepOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timerStart": "टाइमर शुरू करें",
+  "timerPause": "रोकें",
+  "timerResume": "फिर से शुरू करें",
+  "timerReset": "रीसेट करें",
+  "addOneMinute": "+1 मिनट",
+  "timerDone": "टाइमर पूरा हुआ!",
+  "untimedStep": "समय रहित चरण",
+  "finishCooking": "पकाना समाप्त करें",
+  "previousStep": "पिछला",
+  "nextStep": "अगला चरण",
+  "cookingComplete": "शाबाश! रेसिपी तैयार है!",
+  "cookingCompleteSubtitle": "आपने यह व्यंजन सफलतापूर्वक बना लिया है। भोजन का आनंद लें!",
+  "backToRecipe": "रेसिपी पर वापस जाएँ",
+  "returnHome": "होम पर वापस जाएँ",
+  "sortBy": "क्रमबद्ध करें",
+  "sortBestMatch": "सर्वश्रेष्ठ मिलान",
+  "sortQuickest": "सबसे जल्दी",
+  "sortFewestMissing": "सबसे कम अनुपलब्ध",
+  "filterDifficulty": "कठिनाई",
+  "filterMaxTime": "अधिकतम समय",
+  "anyTime": "कोई भी समय",
+  "under30Min": "≤ 30 मिनट",
+  "under45Min": "≤ 45 मिनट",
+  "logoutConfirmTitle": "लॉग आउट करें?",
+  "logoutConfirmMessage": "क्या आप वाकई अपना सत्र समाप्त करना चाहते हैं?",
+  "logoutSuccess": "आप लॉग आउट हो चुके हैं।",
+  "cancel": "रद्द करें",
+  "backendMode": "फ़्रंटएंड मोड: ऑफ़लाइन मॉक (API के लिए तैयार)",
+  "googleSignInNotice": "इस डेमो में Google साइन-इन कॉन्फ़िगर नहीं है। कृपया किसी भी डेमो ईमेल और पासवर्ड से लॉग इन करें।"
+}

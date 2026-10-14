@@ -1,0 +1,186 @@
+{
+  "@@locale": "en",
+  "appTitle": "Recipe Guide",
+  "login": "Log in",
+  "signup": "Sign up",
+  "forgotPassword": "Forgot password?",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "name": "Name",
+  "loginButton": "Log in",
+  "signupButton": "Create account",
+  "sendResetLink": "Send reset link",
+  "continueWithGoogle": "Continue with Google",
+  "orContinueWith": "or continue with",
+  "noAccount": "New here? Sign up",
+  "haveAccount": "Already have an account? Log in",
+  "backToLogin": "Back to log in",
+  "home": "Home",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "welcomeUser": "Hello, {name}",
+  "@welcomeUser": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "homeSubtitle": "Cook tasty meals with the ingredients you already have.",
+  "findRecipes": "Find recipes",
+  "selectIngredients": "Select ingredients",
+  "selectIngredientsHint": "Tap the items in your kitchen. Then we will suggest recipes.",
+  "searchIngredients": "Search ingredients",
+  "getRecommendations": "Show recipes",
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "recommendedRecipes": "Suggested recipes",
+  "recipeDetails": "Recipe",
+  "ingredients": "Ingredients",
+  "steps": "Steps",
+  "video": "Cooking video",
+  "watchVideo": "Watch video",
+  "videoUnavailable": "No video yet for this recipe.",
+  "cookTime": "{minutes} min",
+  "@cookTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "servingsLabel": "{count} servings",
+  "@servingsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "difficulty": "Level",
+  "addToFavorites": "Save",
+  "removeFromFavorites": "Saved",
+  "logout": "Log out",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "marathi": "Marathi",
+  "noRecipes": "No recipes found",
+  "noRecipesHint": "Try selecting more ingredients from your kitchen.",
+  "noFavorites": "No saved recipes yet",
+  "noFavoritesHint": "Open a recipe and tap Save to keep it here.",
+  "noIngredients": "No ingredients match your search.",
+  "loading": "Please wait…",
+  "errorTitle": "Something went wrong",
+  "tryAgain": "Try again",
+  "resetPasswordHint": "Enter your email. We will send a reset link.",
+  "resetEmailSent": "If this email is registered, a reset link has been sent.",
+  "invalidEmail": "Enter a valid email address.",
+  "passwordTooShort": "Password must be at least 6 characters.",
+  "passwordsDoNotMatch": "Passwords do not match.",
+  "nameRequired": "Please enter your name.",
+  "emailRequired": "Please enter your email.",
+  "passwordRequired": "Please enter your password.",
+  "selectAtLeastOne": "Please select at least one ingredient.",
+  "demoHint": "Demo mode: any valid email and password will work.",
+  "popularRecipes": "Popular recipes",
+  "stepLabel": "Step {number}",
+  "@stepLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "googleSignInSoon": "Google Sign-In will be connected later.",
+  "account": "Account",
+  "signedInAs": "Signed in as",
+  "appInfo": "This is the student frontend. Recipes shown here are sample data.",
+  "clearAll": "Clear all",
+  "addCustomIngredient": "Add custom ingredient",
+  "enterIngredientName": "Enter ingredient name",
+  "add": "Add",
+  "selectedIngredientsTitle": "Selected ({count})",
+  "@selectedIngredientsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "inKitchen": "{matched}/{total} in kitchen",
+  "@inKitchen": {
+    "placeholders": {
+      "matched": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "missingCount": "Missing {count}",
+  "@missingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "filterAll": "All",
+  "filterByCategory": "Categories",
+  "customCategory": "Custom",
+  "kitchenShortcut": "What's in your kitchen?",
+  "searchHintHome": "Search ingredients or recipes...",
+  "viewAll": "View all",
+  "allRecipesTitle": "All Recipes",
+  "startCooking": "Start Cooking",
+  "cookingMode": "Cooking Mode",
+  "stepOf": "Step {current} of {total}",
+  "@stepOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timerStart": "Start timer",
+  "timerPause": "Pause",
+  "timerResume": "Resume",
+  "timerReset": "Reset",
+  "addOneMinute": "+1 min",
+  "timerDone": "Timer completed!",
+  "untimedStep": "Untimed step",
+  "finishCooking": "Finish Cooking",
+  "previousStep": "Previous",
+  "nextStep": "Next Step",
+  "cookingComplete": "Well Done! Recipe Completed!",
+  "cookingCompleteSubtitle": "You've successfully prepared this dish. Enjoy your meal!",
+  "backToRecipe": "Back to Recipe",
+  "returnHome": "Return to Home",
+  "sortBy": "Sort by",
+  "sortBestMatch": "Best match",
+  "sortQuickest": "Quickest",
+  "sortFewestMissing": "Fewest missing",
+  "filterDifficulty": "Difficulty",
+  "filterMaxTime": "Max cook time",
+  "anyTime": "Any time",
+  "under30Min": "≤ 30 min",
+  "under45Min": "≤ 45 min",
+  "logoutConfirmTitle": "Log out?",
+  "logoutConfirmMessage": "Are you sure you want to end your current session?",
+  "logoutSuccess": "You have been logged out.",
+  "cancel": "Cancel",
+  "backendMode": "Frontend Mode: Offline Mock (Ready for API)",
+  "googleSignInNotice": "Google sign-in is not configured in this frontend demo. Please log in with any demo email and password."
+}

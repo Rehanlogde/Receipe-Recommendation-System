@@ -1,0 +1,186 @@
+{
+  "@@locale": "mr",
+  "appTitle": "रेसिपी गाइड",
+  "login": "लॉग इन",
+  "signup": "साइन अप",
+  "forgotPassword": "पासवर्ड विसरलात?",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "confirmPassword": "पासवर्ड पुन्हा लिहा",
+  "name": "नाव",
+  "loginButton": "लॉग इन करा",
+  "signupButton": "खाते तयार करा",
+  "sendResetLink": "रीसेट लिंक पाठवा",
+  "continueWithGoogle": "Google ने सुरू ठेवा",
+  "orContinueWith": "किंवा यासह सुरू ठेवा",
+  "noAccount": "नवीन आहात? साइन अप करा",
+  "haveAccount": "खाते आहे? लॉग इन करा",
+  "backToLogin": "लॉग इनवर परत जा",
+  "home": "होम",
+  "favorites": "आवडते",
+  "profile": "प्रोफाइल",
+  "welcomeUser": "नमस्कार, {name}",
+  "@welcomeUser": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "homeSubtitle": "घरात असलेल्या साहित्यापासून चविष्ट जेवण बनवा.",
+  "findRecipes": "रेसिपी शोधा",
+  "selectIngredients": "साहित्य निवडा",
+  "selectIngredientsHint": "तुमच्या स्वयंपाकघरातील गोष्टींवर टॅप करा. मग आम्ही रेसिपी सुचवू.",
+  "searchIngredients": "साहित्य शोधा",
+  "getRecommendations": "रेसिपी दाखवा",
+  "selectedCount": "{count} निवडले",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "recommendedRecipes": "सुचवलेल्या रेसिपी",
+  "recipeDetails": "रेसिपी",
+  "ingredients": "साहित्य",
+  "steps": "पायऱ्या",
+  "video": "स्वयंपाकाचा व्हिडिओ",
+  "watchVideo": "व्हिडिओ पहा",
+  "videoUnavailable": "या रेसिपीसाठी व्हिडिओ अद्याप नाही.",
+  "cookTime": "{minutes} मिनिटे",
+  "@cookTime": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "servingsLabel": "{count} सर्व्हिंग",
+  "@servingsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "difficulty": "पातळी",
+  "addToFavorites": "सेव्ह करा",
+  "removeFromFavorites": "सेव्ह झाले",
+  "logout": "लॉग आउट",
+  "language": "भाषा",
+  "english": "इंग्रजी",
+  "hindi": "हिंदी",
+  "marathi": "मराठी",
+  "noRecipes": "रेसिपी सापडल्या नाहीत",
+  "noRecipesHint": "अधिक साहित्य निवडून पुन्हा पहा.",
+  "noFavorites": "अजून सेव्ह केलेल्या रेसिपी नाहीत",
+  "noFavoritesHint": "रेसिपी उघडा आणि सेव्ह वर टॅप करा.",
+  "noIngredients": "या शोधाशी जुळणारे साहित्य नाही.",
+  "loading": "कृपया थांबा…",
+  "errorTitle": "काहीतरी चुकले",
+  "tryAgain": "पुन्हा प्रयत्न करा",
+  "resetPasswordHint": "तुमचा ईमेल लिहा. आम्ही रीसेट लिंक पाठवू.",
+  "resetEmailSent": "हा ईमेल नोंदणीकृत असेल तर रीसेट लिंक पाठवली आहे.",
+  "invalidEmail": "योग्य ईमेल पत्ता लिहा.",
+  "passwordTooShort": "पासवर्ड किमान 6 अक्षरांचा असावा.",
+  "passwordsDoNotMatch": "पासवर्ड जुळत नाहीत.",
+  "nameRequired": "कृपया तुमचे नाव लिहा.",
+  "emailRequired": "कृपया ईमेल लिहा.",
+  "passwordRequired": "कृपया पासवर्ड लिहा.",
+  "selectAtLeastOne": "कृपया किमान एक साहित्य निवडा.",
+  "demoHint": "डेमो मोड: कोणताही योग्य ईमेल आणि पासवर्ड चालेल.",
+  "popularRecipes": "लोकप्रिय रेसिपी",
+  "stepLabel": "पायरी {number}",
+  "@stepLabel": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "googleSignInSoon": "Google साइन-इन नंतर जोडले जाईल.",
+  "account": "खाते",
+  "signedInAs": "या नावाने लॉग इन आहात",
+  "appInfo": "हे विद्यार्थी फ्रंटएंड आहे. येथे दिसणाऱ्या रेसिपी नमुना डेटा आहेत।",
+  "clearAll": "सर्व हटवा",
+  "addCustomIngredient": "वेगळे साहित्य जोडा",
+  "enterIngredientName": "साहित्याचे नाव टाका",
+  "add": "जोडा",
+  "selectedIngredientsTitle": "निवडलेले साहित्य ({count})",
+  "@selectedIngredientsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "inKitchen": "स्वयंपाकघरात {matched}/{total}",
+  "@inKitchen": {
+    "placeholders": {
+      "matched": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "missingCount": "{count} साहित्य हवे",
+  "@missingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "filterAll": "सर्व",
+  "filterByCategory": "श्रेणी",
+  "customCategory": "कस्टम",
+  "kitchenShortcut": "तुमच्या स्वयंपाकघरात काय आहे?",
+  "searchHintHome": "साहित्य किंवा रेसिपी शोधा...",
+  "viewAll": "सर्व पहा",
+  "allRecipesTitle": "सर्व रेसिपी",
+  "startCooking": "स्वयंपाक सुरू करा",
+  "cookingMode": "कुकिंग मोड",
+  "stepOf": "पायरी {current} / {total}",
+  "@stepOf": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timerStart": "टायमर सुरू करा",
+  "timerPause": "थांबवा",
+  "timerResume": "पुन्हा सुरू करा",
+  "timerReset": "रीसेट करा",
+  "addOneMinute": "+1 मिनिट",
+  "timerDone": "टायमर पूर्ण झाला!",
+  "untimedStep": "वेळ नसलेली पायरी",
+  "finishCooking": "स्वयंपाक पूर्ण करा",
+  "previousStep": "मागील",
+  "nextStep": "पुढील पायरी",
+  "cookingComplete": "छान! रेसिपी तयार झाली!",
+  "cookingCompleteSubtitle": "तुम्ही हा पदार्थ यशस्वीपणे बनवला आहे. जेवणाचा आनंद घ्या!",
+  "backToRecipe": "रेसिपीवर परत जा",
+  "returnHome": "होमवर परत जा",
+  "sortBy": "क्रमवारी लावा",
+  "sortBestMatch": "सर्वोत्कृष्ट जुळणी",
+  "sortQuickest": "सर्वात जलद",
+  "sortFewestMissing": "कमीत कमी अनुपलब्ध",
+  "filterDifficulty": "काठिण्यपातळी",
+  "filterMaxTime": "कमाल वेळ",
+  "anyTime": "कोणतीही वेळ",
+  "under30Min": "≤ 30 मिनिटे",
+  "under45Min": "≤ 45 मिनिटे",
+  "logoutConfirmTitle": "लॉग आउट करायचे?",
+  "logoutConfirmMessage": "तुम्हाला खात्री आहे की सत्र समाप्त करायचे आहे?",
+  "logoutSuccess": "तुम्ही लॉग आउट झाला आहात.",
+  "cancel": "रद्द करा",
+  "backendMode": "फ्रंटएंड मोड: ऑफलाइन मॉक (API साठी तयार)",
+  "googleSignInNotice": "या डेमोमध्ये Google साइन-इन कॉन्फिगर केलेले नाही. कृपया कोणत्याही डेमो ईमेल आणि पासवर्डने लॉग इन करा."
+}
